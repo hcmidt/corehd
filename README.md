@@ -1,10 +1,10 @@
-## On Minimal Sets to Destroy the $k$-Core in Random Networks
+# On Minimal Sets to Destroy the $k$-Core in Random Networks
 
-# solver.nb
+## solver.nb
 Contains Mathematica notebook with simple first order solver for the DGLs that follow the corehd algorithm.
 
-# chouffe.py
+## chouffe.py
 Contains python implementation of the corehd and weak-neighbor algorithm.
 
-# peeling.pdf
+## peeling.pdf
 Lecture notes by H. Pfister on graph peeling processes.
