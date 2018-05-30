@@ -202,7 +202,7 @@ def destroy(k,G,scm='HD'):
 			d = dmax
 
 
-	return D
+	return D, N 
 
 
 def add_node_by_score(v,G,H,max_score_dict,score_dict,k,scm):
