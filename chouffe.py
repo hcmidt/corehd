@@ -183,8 +183,7 @@ def destroy(k,G,scm='HD'):
 		for nnb in ddv:
 			add_node_by_score(nnb,G,H,max_score_dict,score_dict,k,scm)
 
-#stupid?
-		## check if dmax needs updating and do so if necessary
+		## check if dmax needs updating and do so if necessary. not necessary
 		if max_score_dict[d] == None:
 			# attempt to update
 			try: 
