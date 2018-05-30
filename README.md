@@ -6,5 +6,3 @@ Contains Mathematica notebook with simple first order solver for the DGLs that f
 ## chouffe.py
 Contains python implementation of the corehd and weak-neighbor algorithm.
 
-## peeling.pdf
-Lecture notes by H. Pfister on graph peeling processes.
